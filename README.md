@@ -1,2 +1,2 @@
 # eqao-landing
-EQAL Landing page for Niagara Catholic DSB EQAO testing
+EQAO Landing page for Niagara Catholic DSB EQAO testing
